@@ -103,4 +103,5 @@ BOOL CCatchScreenDlg::OnCommand(WPARAM wParam, LPARAM lParam)
 
 
 
-
+营销软件 www.vst.tw
+![FB.png](FB.png)
